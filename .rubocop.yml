@@ -36,6 +36,9 @@ Style/Documentation:
 RSpec/MultipleExpectations:
   Enabled: false
 
+RSpec/LetSetup:
+  Enabled: false
+
 Rails/LinkToBlank:
   Enabled: false
 
